@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="509b25a7-c531-46b5-84e9-8b409a7df3f4" name="Changes" comment="2021/12/16 STUDY - REPRESENTATION&#10;solved 3 more problems">
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/insertingoperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/programmers_괄호변환.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/antenna.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/uptodown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/국영수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/두배열원소교체.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/성적정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/실패율.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/카드정렬.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/실패율.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/실패율.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +47,7 @@
       <recent name="C:\Users\gkfls\Desktop\Algorithm\Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.antenna">
+  <component name="RunManager" selected="Python.실패율">
     <configuration name="두배열원소교체" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +61,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort/두배열원소교체.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="카드정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort/카드정렬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="실패율" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort/실패율.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,10 +197,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.실패율" />
+        <item itemvalue="Python.카드정렬" />
         <item itemvalue="Python.antenna" />
-        <item itemvalue="Python.국영수" />
         <item itemvalue="Python.두배열원소교체" />
-        <item itemvalue="Python.성적정렬" />
         <item itemvalue="Python.uptodown" />
       </list>
     </recent_temporary>
